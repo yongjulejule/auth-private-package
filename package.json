@@ -1,0 +1,25 @@
+{
+  "name": "@yongjulejule/auth-private-package",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"no test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yongjulejule/auth-private-package.git"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "author": "yongjulejule",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongjulejule/auth-private-package/issues"
+  },
+  "homepage": "https://github.com/yongjulejule/auth-private-package#readme"
+}
